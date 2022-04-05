@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>489065240674-ushokgok210pnkc4t33bln454a130e6f.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.489065240674-ushokgok210pnkc4t33bln454a130e6f</string>
+	<key>API_KEY</key>
+	<string>AIzaSyD-VY8ln9j78ldNyRIz7TVXGPgIbPzjE88</string>
+	<key>GCM_SENDER_ID</key>
+	<string>489065240674</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.dubbie.FinCalcIn</string>
+	<key>PROJECT_ID</key>
+	<string>fincalcin</string>
+	<key>STORAGE_BUCKET</key>
+	<string>fincalcin.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:489065240674:ios:6d00b69483148d3521993b</string>
+	<key>ADMOB_APP_ID</key>
+	<string>ca-app-pub-1853257820159853~3447260571</string>
+</dict>
+</plist>
